@@ -6,3 +6,13 @@
 
 #### Grades:
 #### **[Ranking](https://docs.google.com/spreadsheets/d/1unWcTEvmCcXXe_wRbYjY0SrJaISrM94Ur7OZqSXIOWE/edit#gid=0)**
+
+#### Scale:
+(concept: difficult problems (~competitive programming level) <-> larger number of problems given)
+[90т.,  104т.] - 3.00
+[105т., 119т.] - 3.50
+[120т., 134т.] - 4.00
+[135т., 149т.] - 4.50
+[150т., 164т.] - 5.00
+[165т., 179т.] - 5.50
+[180т.,   ∞  ) - 6.00
