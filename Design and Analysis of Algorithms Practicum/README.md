@@ -8,11 +8,11 @@
 #### **[Ranking](https://docs.google.com/spreadsheets/d/1unWcTEvmCcXXe_wRbYjY0SrJaISrM94Ur7OZqSXIOWE/edit#gid=0)**
 
 #### Scale:
-(concept: difficult problems (~competitive programming level) <-> larger number of problems given)
-[90т.,  104т.] - 3.00
-[105т., 119т.] - 3.50
-[120т., 134т.] - 4.00
-[135т., 149т.] - 4.50
-[150т., 164т.] - 5.00
-[165т., 179т.] - 5.50
-[180т.,   ∞  ) - 6.00
+###### (concept: difficult problems (~competitive programming level) <-> larger number of problems given)
+[90p.,  104p.] - 3.00,
+[105p., 119p.] - 3.50,
+[120p., 134p.] - 4.00,
+[135p., 149p.] - 4.50,
+[150p., 164p.] - 5.00,
+[165p., 179p.] - 5.50,
+[180p.,   ∞  ) - 6.00
